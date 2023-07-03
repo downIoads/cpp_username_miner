@@ -7,4 +7,4 @@ Takes a word like "cafe" (must be hex-compatible) and then generates numbers whi
 
 ## Features
 
-The only feature I cared about was multithreading, so the program checks how many threads your CPU supports and then evenly splits the input space among those threads.
+The only feature I cared about was multithreading, so the program checks how many threads your CPU supports and then evenly splits the input space among those threads. They don't call me MultithreadMaestro for nothing!
